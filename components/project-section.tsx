@@ -27,7 +27,8 @@ export default function ProjectSection() {
           <ProjectItem
             thumbnail={cyclickImg}
             title="CyClick"
-            link="https://github.com/jeromeluciano/Cyclick"
+            // link="https://github.com/jeromeluciano/Cyclick"
+            link="#"
             description="App that lets you record your travel"
           />
           <ProjectItem
