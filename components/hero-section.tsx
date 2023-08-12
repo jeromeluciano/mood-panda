@@ -45,7 +45,7 @@ export default function HeroSection() {
           >
             {/* I&apos;m{" "} */}
             <Text as="span" color={primaryColor} fontWeight="bold">
-                I'm Mood Panda 😂
+                I&apos;m Mood Panda 😂
             </Text>
           </Text>
           <Text

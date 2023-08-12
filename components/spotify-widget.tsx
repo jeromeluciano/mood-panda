@@ -54,7 +54,7 @@ export default function SpotifyWidget() {
               </HStack>
               <HStack justifyItems="center">
                 <Box>
-                  <Image src={song.imageUrl.url} width={64} height={64} />
+                  <Image src={song.imageUrl.url} width={64} height={64} alt={song.songName} />
                  </Box>
                 <VStack  alignItems="start" spacing={1}>
                   <Text fontSize="xs" fontWeight="semibold">{song.songName}</Text>
