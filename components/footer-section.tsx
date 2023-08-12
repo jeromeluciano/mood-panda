@@ -35,17 +35,17 @@ export default function FooterSection() {
               <FaFacebook size={24} color={iconColor} />
             </Box>
           </a>
-          <a href="https://www.linkedin.com/in/john-jerome-luciano-a65490233/">
+          <a href="https://www.linkedin.com/">
             <Box>
               <FaLinkedin size={24} color={iconColor} />
             </Box>
           </a>
-          <a href="https://github.com/jeromeluciano">
+          <a href="https://github.com">
             <Box>
               <FaGithub size={24} color={iconColor} />
             </Box>
           </a>
-          <a href="https://msng.link/o/?639156969987=vi">
+          <a href="#">
             <Box>
               <FaViber size={24} color={iconColor} />
             </Box>

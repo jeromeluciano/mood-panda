@@ -62,7 +62,7 @@ export default function HeroSection() {
           </Text>
 
           <HStack mt="4" justifyContent={{ sm: "center", md: "left" }}>
-            <a href="https://github.com/jeromeluciano" target="_blank" rel="noreferrer">
+            <a href="https://tenor.com/view/rick-astly-rick-rolled-gif-22755440" target="_blank" rel="noreferrer">
               <Button
                 width="fit-content"
                 rounded="lg"
@@ -75,7 +75,7 @@ export default function HeroSection() {
                 Github
               </Button>
             </a>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://tenor.com/view/rick-roll-gif-23595798" target="_blank" rel="noreferrer">
               <Button
                 width="fit-content"
                 rounded="lg"
