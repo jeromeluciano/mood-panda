@@ -14,11 +14,11 @@ export default function Home() {
       <Head>
         <title>Mood Panda - Portfolio</title>
         <meta name="description" content="My portfolio website" />
-        <meta
+        {/* <meta
           name="keywords"
           content="john jerome luciano, jerome luciano, luciano jerome, web developer, portfolio"
-        />
-        <meta property="og:url" content="https://www.jjdluciano.com/" />
+        /> */}
+        {/* <meta property="og:url" content="https://www.jjdluciano.com/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="John Jerome D. Luciano" />
         <meta property="og:description" content="My portfolio website" />
@@ -36,7 +36,7 @@ export default function Home() {
         <meta
           name="twitter:image"
           content="https://www.jjdluciano.com/images/opengraph.png"
-        />
+        /> */}
       </Head>
       <Layout>
         <DynamicHeroSection />
